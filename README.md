@@ -1,12 +1,9 @@
-# AWS 기능을 이용한 회의 참석용 QR code 생성 웹페이지
+# AWS를 이용한 애플리케이션의 3 Tier Architecture 구현
  
 #### 클라이언트가 접속하는 웹페이지에서의 기능을 AWS에서 제공하는 Gateway와 Lambda, S3, DynamoDB를 이용해 Serverless 환경에서 구현
 
 ## 개발 언어
   - Python
-  - Html
-  - css
-  - js
   
 ## 개발 플랫폼
   - AWS Lambda
@@ -20,7 +17,7 @@
 <hr/>
 
 ## Scenario
-![image](https://github.com/Rosa1026/Lambda-Project/blob/main/image/%EC%A0%84%EA%B3%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.png)
+![image](https://github.com/Rosa1026/3-tier-architecture/blob/main/image/scenario.png)
 
 <hr/>
 
